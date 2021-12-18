@@ -15,7 +15,5 @@ refer it http://vclab.kaist.ac.kr/cs484/hw5/index.html
 
 ## 4. Compare Results  
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/42256738/146647359-9e200071-3e0b-4f51-b103-547d8c4920c8.png">
-    <img src="https://user-images.githubusercontent.com/42256738/146647363-2e3b39f0-8303-4182-a65a-b2e643355e2d.png">
+    <img src="https://user-images.githubusercontent.com/42256738/146647733-d31e1d12-dd42-4a4e-9f49-03533c66f7b1.png">
 </p>
-
